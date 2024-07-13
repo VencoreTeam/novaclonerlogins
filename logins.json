@@ -6,11 +6,6 @@
     },
     {
         "username": "trea",
-        "password": "1",
-        "disabled": true
-    },
-    {
-        "username": "trea",
         "password": "11",
         "status": true
     }
