@@ -23,5 +23,10 @@
         "username": "trea",
         "password": "trealegit",
         "status": true
+    },
+    {
+        "username": "trea2",
+        "password": "trealegit",
+        "status": true
     }
 ]
