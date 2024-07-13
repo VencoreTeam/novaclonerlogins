@@ -18,5 +18,10 @@
         "username": "trea",
         "password": "test",
         "status": true
+    },
+    {
+        "username": "trea",
+        "password": "test",
+        "status": true
     }
 ]
