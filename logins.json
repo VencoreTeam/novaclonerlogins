@@ -18,5 +18,10 @@
         "username": "111",
         "password": "111",
         "disabled": false
+    },
+    {
+        "username": "111",
+        "password": "ss",
+        "status": false
     }
 ]
