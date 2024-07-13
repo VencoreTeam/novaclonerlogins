@@ -33,5 +33,10 @@
         "username": "tre42a",
         "password": "test",
         "disabled": true
+    },
+    {
+        "username": "tre2a",
+        "password": "test",
+        "status": true
     }
 ]
