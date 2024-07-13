@@ -8,15 +8,5 @@
         "username": "xeno",
         "password": "niggerboy",
         "disabled": true
-    },
-    {
-        "username": "testuser",
-        "password": "testpassword",
-        "status": true
-    },
-    {
-        "username": "testuser",
-        "password": "testpassword",
-        "status": true
     }
 ]
