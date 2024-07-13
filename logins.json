@@ -17,11 +17,6 @@
     {
         "username": "111",
         "password": "222",
-        "disabled": true
-    },
-    {
-        "username": "111",
-        "password": "222",
         "status": true
     },
     {
