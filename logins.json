@@ -13,5 +13,10 @@
         "username": "banan",
         "password": "x",
         "status": false
+    },
+    {
+        "username": "111",
+        "password": "1111",
+        "disabled": true
     }
 ]
