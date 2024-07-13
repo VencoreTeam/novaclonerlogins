@@ -28,5 +28,10 @@
         "username": "tre2a",
         "password": "test",
         "disabled": true
+    },
+    {
+        "username": "tre42a",
+        "password": "test",
+        "disabled": true
     }
 ]
