@@ -1,12 +1,17 @@
 [
-  {
-    "username": "trea",
-    "password": "1234",
-    "disabled": false
-  },
-  {
-    "username": "xeno",
-    "password": "niggerboy",
-    "disabled": true
-  }
+    {
+        "username": "trea",
+        "password": "1234",
+        "disabled": false
+    },
+    {
+        "username": "xeno",
+        "password": "niggerboy",
+        "disabled": true
+    },
+    {
+        "username": "testuser",
+        "password": "testpassword",
+        "disabled": false
+    }
 ]
