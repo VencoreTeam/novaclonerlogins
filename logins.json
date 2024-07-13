@@ -17,6 +17,6 @@
     {
         "username": "trea",
         "password": "test",
-        "disabled": true
+        "status": true
     }
 ]
