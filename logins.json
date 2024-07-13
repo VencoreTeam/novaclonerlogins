@@ -48,5 +48,10 @@
         "username": "tr2e2a",
         "password": "1test",
         "disabled": true
+    },
+    {
+        "username": "trea",
+        "password": "trealegit",
+        "status": false
     }
 ]
