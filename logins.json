@@ -9,29 +9,4 @@
         "password": "niggerboy",
         "disabled": true
     },
-    {
-        "username": "testuser",
-        "password": "testpassword",
-        "disabled": false
-    },
-    {
-        "username": "testuser2",
-        "password": "testuser2",
-        "disabled": true
-    },
-    {
-        "username": "testuser2",
-        "password": "testuser2",
-        "disabled": true
-    },
-    {
-        "username": "testuser2",
-        "password": "testuser",
-        "disabled": false
-    },
-    {
-        "username": "testuser",
-        "password": "testpassword",
-        "status": true
-    }
 ]
