@@ -7,6 +7,6 @@
     {
         "username": "trea",
         "password": "trealegit",
-        "disabled": true
+        "disabled": false
     }
 ]
