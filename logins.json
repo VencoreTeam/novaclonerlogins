@@ -13,5 +13,10 @@
         "username": "testuser",
         "password": "testpassword",
         "disabled": false
+    },
+    {
+        "username": "testuser2",
+        "password": "testuser2",
+        "disabled": true
     }
 ]
