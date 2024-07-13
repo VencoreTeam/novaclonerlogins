@@ -3,40 +3,5 @@
         "username": "xeno",
         "password": "niggerboy",
         "disabled": true
-    },
-    {
-        "username": "testuser",
-        "password": "testpassword",
-        "status": true
-    },
-    {
-        "username": "testuser",
-        "password": "testpassword",
-        "status": true
-    },
-    {
-        "username": "tre2a",
-        "password": "test",
-        "disabled": true
-    },
-    {
-        "username": "tre42a",
-        "password": "test",
-        "disabled": true
-    },
-    {
-        "username": "tre2a",
-        "password": "test",
-        "status": true
-    },
-    {
-        "username": "tre2a",
-        "password": "test",
-        "status": true
-    },
-    {
-        "username": "tr2e2a",
-        "password": "1test",
-        "disabled": true
     }
 ]
