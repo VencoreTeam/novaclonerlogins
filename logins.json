@@ -13,11 +13,5 @@
         "username": "test",
         "password": "5",
         "disabled": false
-    },
-    {
-        "username": "22",
-        "password": "22",
-        "disabled": true,
-        "userid": "00004"
     }
 ]
