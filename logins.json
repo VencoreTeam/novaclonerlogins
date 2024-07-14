@@ -23,5 +23,10 @@
         "username": "1211",
         "password": "111",
         "disabled": true
+    },
+    {
+        "username": "500",
+        "password": "300",
+        "disabled": true
     }
 ]
