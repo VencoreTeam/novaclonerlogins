@@ -15,12 +15,6 @@
         "disabled": false
     },
     {
-        "username": "11",
-        "password": "11",
-        "disabled": true,
-        "userid": "00003"
-    },
-    {
         "username": "22",
         "password": "22",
         "disabled": true,
