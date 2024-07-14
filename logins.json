@@ -8,5 +8,10 @@
         "username": "trea",
         "password": "trealegit",
         "disabled": false
+    },
+    {
+        "username": "test",
+        "password": "5",
+        "disabled": false
     }
 ]
