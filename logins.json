@@ -31,7 +31,7 @@
     {
         "username": "XenoNigger",
         "password": "BlackBoy",
-        "disabled": false,
+        "disabled": true,
         "userid": "00005"
     }
 ]
