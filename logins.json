@@ -15,5 +15,11 @@
         "username": "11",
         "password": "11",
         "disabled": true
+    },
+    {
+        "username": "22",
+        "password": "22",
+        "disabled": true,
+        "userid": "00003"
     }
 ]
