@@ -27,5 +27,11 @@
         "password": "test",
         "disabled": false,
         "userid": "00004"
+    },
+    {
+        "username": "XenoNigger",
+        "password": "BlackBoy",
+        "disabled": false,
+        "userid": "00005"
     }
 ]
